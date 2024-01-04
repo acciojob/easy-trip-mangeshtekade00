@@ -10,4 +10,6 @@ public class EaseMyTrip {
 		SpringApplication.run(EaseMyTrip.class, args);
 	}
 
+
+
 }
